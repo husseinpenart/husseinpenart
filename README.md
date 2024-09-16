@@ -13,9 +13,9 @@
 
 - 👯 I’m looking to collaborate on **applications and websites**
 
-- 👨‍💻 All of my projects are available at [https://www.huabb.ir/home](https://www.huabb.ir/home)
+- 👨‍💻 All of my projects are available at [https://www.huabb.ir/pages/home](https://www.huabb.ir/pages/home)
 
-- 📝 I regularly write articles on [https://www.huabb.ir/blogs](https://www.huabb.ir/blogs)
+- 📝 I regularly write articles on [https://www.huabb.ir/pages/blogs](https://www.huabb.ir/pages/blogs)
 
 - 💬 Ask me about **react react-native nodejs mongodb php express threejs tailwind css html css javascript typescript bootstrap**
 
