@@ -1,123 +1,51 @@
+<img src="https://avatars.githubusercontent.com/u/94780245?v=4" align="left" style="width: 30%;borderRaduis:25px" />  
+  
 
-Skip to content
-Navigation Menu
 
-    husseinpenart
-    /
-    husseinpenart
 
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
+### ME  
+### <div align="center">I'M HUSSEIN ASADI
+I'M FULLSTACK DEVELOPER 
+ freelance developer 👨‍💻 working remotely since 2014🚀 I'm currently work on DAY Insurance company</div>  
+  
 
-    Settings
 
-Editing README.md in husseinpenart
-husseinpenart/husseinpenart is a special repository: its README.md will appear on your profile!
-Breadcrumbs
 
-    husseinpenart
+### side project , activities  
+- 🔭 I’m currently working on My own startup wocallend , and calligraphy and painting as hobby  
+  
 
-/
-in
-main
 
-Indent mode
-Indent size
-Line wrap mode
-Editing README.md file contents
-Selection deleted
-49
-50
-51
-52
-53
-54
-55
-56
-57
-58
-59
-60
-61
-62
-63
-64
-65
-66
-67
-68
-69
-70
-71
-72
-73
-74
-75
-76
-77
-78
-79
-80
-81
-82
-83
-84
-85
-86
-87
-88
-89
-90
-91
-92
-93
-94
-95
-96
-97
-98
-99
-100
-101
-102
-103
-104
-105
-106
-107
-108
-109
-110
-111
-112
-113
-114
-115
-116
-117
-118
-119
-120
-121
-122
-123
-124
-125
-126
-127
-128
-129
-130
-131
-132
-133
-134
-135
-136
+
+### Learning  
+- 🌱 I’m currently learning C++ QT  
+  
+
+
+
+### ask me  
+- ❓ Ask me about anything related to MERN stack typscript javascript react-native  and related technologies  
+  
+
+
+
+### fact  
+- ⚡ Fun fact: I love to be a child  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -188,10 +116,24 @@ https://www.linkedin.com/in/hussain-asadi-1157221b9?utm_source=share&utm_campaig
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
+  
 
 <br/>  
+
+
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=husseinpenart&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+## Recent Blog Posts  
+  
+
+<br/>  
+
+  
+
 <br/>  
 
 <div align="center">
@@ -204,8 +146,5 @@ https://www.linkedin.com/in/hussain-asadi-1157221b9?utm_source=share&utm_campaig
 
 <br />
 
-
-
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-Attach files by dragging & dropping, selecting or pasting them.
-Editing husseinpenart/README.md at main · husseinpenart/husseinpenart
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
